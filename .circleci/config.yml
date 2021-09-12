@@ -3,7 +3,7 @@
 version: 2.1
 
 workflows:
-  my-workflow:
+  ftp-workflow:
     jobs:
       - build:
           context:
